@@ -1,0 +1,8 @@
+{
+  "name": "webhook-forwarder",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-21",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
